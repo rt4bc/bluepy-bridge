@@ -1,2 +1,3 @@
-* python-template
-python project template 
+* BluePy Bridge
+Create a bridge for BLE widgets to access internet with Python & Qt
+
